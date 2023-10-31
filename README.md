@@ -3,8 +3,8 @@
 ##
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baldiotti&count_private=true&show_icons=true&theme=discord_old_blurple&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baldiotti&layout=compact&theme=discord_old_blurple&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Baldiotti&theme=discord_old_blurple&bg_color=00000000&hide_border=false&show_icons=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Baldiotti&&layout=compact&theme=discord_old_blurple&bg_color=00000000)
 
 </div>
 
