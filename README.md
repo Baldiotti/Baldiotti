@@ -3,8 +3,9 @@
 ##
 <div>
 
-![](https://github-readme-stats.vercel.app/api?username=Baldiotti&theme=discord_old_blurple&bg_color=00000000&hide_border=false&show_icons=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Baldiotti&&layout=compact&theme=discord_old_blurple&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api?username=Baldiotti&theme=discord_old_blurple&bg_color=00000000&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baldiotti&layout=compact&theme=discord_old_blurple&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true)</br>
+![](http://github-readme-streak-stats.herokuapp.com?user=Baldiotti&theme=discord-old-blurple&date_format=M%20j%5B%2C%20Y%5D&card_width=330&fire=FB8C00&ring=FB8C00&hide_total_contributions=true)
 
 </div>
 
