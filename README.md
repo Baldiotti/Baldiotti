@@ -1,9 +1,9 @@
 <h3 align="left">Hi, I'm Augusto Baldiotti 👋</h3>
-<p align="left">Software Engineering student always looking always to learn and improve my skills.</p>
+<p align="left">Software Engineering student, always looking to learn and improve my skills</p>
 
 <br/>
 
-- ⚙️ Working on a **Finance Management Web App**
+- ⚙️ Working on an **Finance Management Web App**
 
 - 🌱 Currently learning **Express**
 
