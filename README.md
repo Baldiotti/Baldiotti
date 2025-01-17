@@ -21,7 +21,7 @@
 </div>
 <!-- technologies session -->
 <div>
-  <h3 style="display: inline-block">Aiming to learn</h3>
+  <h3 style="display: inline-block">Aiming to Learn</h3>
   <p>
      <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nest,jest" />
