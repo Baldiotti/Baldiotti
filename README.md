@@ -5,7 +5,7 @@
 
 - ⚙️ Working on an **Finance Management Web App**
 
-- 🌱 Currently learning **Express**
+- 🌱 Currently learning **Express and MongoDB**
 
 <br/>
 
