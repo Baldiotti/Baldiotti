@@ -3,9 +3,9 @@
 
 <br/>
 
-- ⚙️ Working on an **Finance Management Web App**
+- ⚙️ Working on an **Social Media Web App**
 
-- 🌱 Currently learning **Express and MongoDB**
+- 🌱 Currently learning **NestJs and Postgres**
 
 <br/>
 
